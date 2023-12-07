@@ -8,8 +8,9 @@ I would love to connect on [LinkedIn!](www.linkedin.com/in/jack-daley-0b96a022b)
 
 
 ### Past Projects
-1.	You can choose any theme [listed on this page](https://pages.github.com/themes/), though some do not work as well on mobile devices.
-2.	From GitHub, edit `_config.yml` and replace the `theme:` line with `theme: jekyll-theme-name` where `name` is the name of the theme from the above list. **For the `minima` theme, use a shortened preface like so `theme: minima`**, the others seem to need the whole preface `theme: jekyll-theme-`. You can check the *Actions* tab (as in step 6. above) to make sure the site is building successfully.
+
+## A Spatial Analysis of Cardiovascular Disease (CVD) Risk
+This was a project that I conducted for my class: Introduction to Machine Learning for Physical Sciences. I predicted CVD risk as measured by the California Office of Environmental Health Hazard Assessment using several variables, all from the California Environmental Screening 4.0 dataset. 
 
 ### Career Aspirations and Resume
 
