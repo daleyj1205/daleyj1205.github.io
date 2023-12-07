@@ -13,6 +13,7 @@ I would love to connect on [LinkedIn!](www.linkedin.com/in/jack-daley-0b96a022b)
 This was a project that I conducted for my class: Introduction to Machine Learning for Physical Sciences. I predicted CVD risk as measured by the California Office of Environmental Health Hazard Assessment using several variables, all from the California Environmental Screening 4.0 dataset. Read my full report [here!](assets/Spatially_Predicting_CVD_CA.pdf)
 
 ### Career Aspirations and Resume
+In my career, I aim to futher pursue my interests in remote sensing and geospatial science. Throughout my time as an undergraduate at UCLA, I have gained a deep understanding of spatial data analysis techniques. From courses ranging from UAV Field Methods in Geography to Computer Science in C++, I have explored the entire lifecycle of geospatial data, from primary source capture to web application implementation. In the future, I imagine myself
 
 
 ***
