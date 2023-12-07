@@ -1,4 +1,4 @@
-## Hi there, I'm Jack!
+### Hi there, I'm Jack!
 
 I am an avid geospatial analyst excited to delve into this fascinating field.
 
@@ -10,7 +10,7 @@ I would love to connect on [LinkedIn!](www.linkedin.com/in/jack-daley-0b96a022b)
 ### Past Projects
 
 ## A Spatial Analysis of Cardiovascular Disease (CVD) Risk
-This was a project that I conducted for my class: Introduction to Machine Learning for Physical Sciences. I predicted CVD risk as measured by the California Office of Environmental Health Hazard Assessment using several variables, all from the California Environmental Screening 4.0 dataset. 
+This was a project that I conducted for my class: Introduction to Machine Learning for Physical Sciences. I predicted CVD risk as measured by the California Office of Environmental Health Hazard Assessment using several variables, all from the California Environmental Screening 4.0 dataset. Read my full report [here!](assets/Spatially_Predicting_CVD_in_CA.pdf)
 
 ### Career Aspirations and Resume
 
