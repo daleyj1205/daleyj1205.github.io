@@ -10,7 +10,7 @@ I would love to connect on [LinkedIn!](www.linkedin.com/in/jack-daley-0b96a022b)
 ## Past Projects
 
 ### A Spatial Analysis of Cardiovascular Disease (CVD) Risk
-This was a project that I conducted for my class: Introduction to Machine Learning for Physical Sciences. I predicted CVD risk as measured by the California Office of Environmental Health Hazard Assessment using several variables, all from the California Environmental Screening 4.0 dataset. Read my full report [here!](assets/Spatially_Predicting_CVD_CA.pdf)
+This was a project that I conducted for my class: Introduction to Machine Learning for Physical Sciences. I predicted CVD risk as measured by the California Office of Environmental Health Hazard Assessment using several variables, all from the California Environmental Screening 4.0 dataset. Read my full report [here!](assets/Spatially_Predicting_CVD_CA.pdf). And check out my python code [here!](assets/CardiovascularDiseaseAnalysis.ipynb)
 
 ***
 
